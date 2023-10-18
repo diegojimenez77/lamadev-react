@@ -1,5 +1,5 @@
 function App() {
-	return <div>Hola React</div>;
+	return <div>This is a minimal React Project</div>;
 }
 
 export default App;
